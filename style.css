@@ -1,0 +1,32 @@
+body {
+  background-color: #f5f5f5; /* Light gray background */
+  font-family: 'Montserrat', sans-serif; /* Or any preferred font */
+}
+
+.container {
+  text-align: center;
+  margin: 40px auto;
+  max-width: 600px;
+}
+
+h1 {
+  font-size: 3em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.name {
+  color: #f08080; /* Pink for a personal touch */
+}
+
+.message {
+  font-size: 1.2em;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
